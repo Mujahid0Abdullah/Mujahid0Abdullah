@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujahid0abdullah" alt="mujahid0abdullah" /></a> </p>
 
-- 🔭 I’m currently working on ** asp.net and react native**
+- 🔭 I’m currently working on **asp.net and react native**
 
 - 🌱 I’m currently learning **machine learning**
 
