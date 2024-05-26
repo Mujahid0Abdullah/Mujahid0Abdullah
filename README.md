@@ -43,5 +43,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujahid0abdullah&show_icons=true&locale=en" alt="mujahid0abdullah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujahid0abdullah&" alt="mujahid0abdullah" /></p>
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mujahid0Abdullah/Mujahid0Abdullah/output/github-contribution-grid-snake-dark.svg" />
 
-<img src="https://raw.githubusercontent.com/Mujahid0Abdullah/Mujahid0Abdullah/output/snake.svg" alt="Snake animation" />
