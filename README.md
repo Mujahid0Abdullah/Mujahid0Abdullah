@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm mujahid alabdullah</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h1 align="center" color="red">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=MajorMonoDisplay&size=35&color=F79A22&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Mujahid+Alabdullah!;" />
+<h3 align="center" >A passionate backend developer</h3>
 
+</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujahid0abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="mujahid0abdullah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujahid0abdullah" alt="mujahid0abdullah" /></a> </p>
